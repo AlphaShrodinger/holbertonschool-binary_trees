@@ -1,2 +1,2 @@
-#holbertonschool-binary_trees
-Holberton school binary trees project
+# holbertonschool-binary_trees
+Holberton school binary trees group project
